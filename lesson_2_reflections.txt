@@ -16,3 +16,7 @@ change new experimental thing on code
 
 How do the diagrams help you visualize the branch structure?
 easier to where evething is.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+a master branch with changes of merge. To visualize it better.
