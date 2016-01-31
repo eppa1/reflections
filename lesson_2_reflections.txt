@@ -20,3 +20,7 @@ easier to where evething is.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 a master branch with changes of merge. To visualize it better.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+it compares and looks what is alike but manually you know what is the same but many with different order.
